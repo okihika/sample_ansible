@@ -1,0 +1,4 @@
+---
+# tasks file for postgresql
+   - name: Install POSTGRESS CLIENT.
+     yum: name=postgress
